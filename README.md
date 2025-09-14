@@ -1,4 +1,4 @@
-# Cosmology-Materials
+
 
 ## Overview
 
@@ -20,15 +20,7 @@ cd Cosmology-Materials
 pip install -r requirements.txt
 ```
 
-## Usage
 
-Import and use simulation functions:
-
-```python
-import cosmology_materials as cm
-result = cm.simulate_material_interaction()
-print(result)
-```
 
 ## License
 
