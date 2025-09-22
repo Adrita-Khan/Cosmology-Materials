@@ -17,7 +17,6 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/Adrita-Khan/Cosmology-Materials.git
 cd Cosmology-Materials
-pip install -r requirements.txt
 ```
 
 
