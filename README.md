@@ -19,7 +19,7 @@ cd Cosmology-Materials
 ## License
 
 This project is licensed under the MIT License. See the full details in the [LICENSE](LICENSE) file.
-
+---
 ## Contact
 
 **Adrita Khan**  
