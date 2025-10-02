@@ -1,26 +1,23 @@
-
-
 ## Overview
 
-**Cosmology-Materials** is a repository for studying materials in cosmology, including dark matter and energy. It provides tools, data, and models for simulating and analyzing materials in astrophysical contexts.
+**Cosmology-Materials** is a comprehensive repository designed to support the study of materials in cosmological contexts, focusing on phenomena like dark matter and dark energy. It offers a range of tools, datasets, and models for simulating and analyzing the role of various materials in astrophysical research.
 
-## Features
+## Key Features
 
-* Cosmological material data sets
-* Simulation and analysis tools
-* Research resources for dark matter and energy
+* **Simulation & Analysis Tools:** Advanced tools for simulating cosmological environments and analyzing material properties.
+* **Research Resources:** Access to cutting-edge resources for investigating dark matter, dark energy, and other cosmological phenomena.
 
 ## Installation
 
-Clone the repo and install dependencies:
+To get started, clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/Adrita-Khan/Cosmology-Materials.git
 cd Cosmology-Materials
 ```
 
-
-
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+This project is licensed under the MIT License. See the full details in the [LICENSE](LICENSE) file.
+
+
