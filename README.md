@@ -1,6 +1,6 @@
 ## Overview
 
-**Cosmology-Materials** is a comprehensive repository designed to support the study of materials in cosmological contexts, focusing on phenomena like dark matter and dark energy. It offers a range of tools, datasets, and models for simulating and analyzing the role of various materials in astrophysical research.
+**Cosmology-Materials** is a comprehensive repository designed to support the study of materials in cosmological contexts. It offers a range of analysis tools and models for simulating and analyzing the role of various materials in astrophysical research.
 
 ## Key Features
 
