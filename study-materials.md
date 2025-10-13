@@ -16,5 +16,9 @@
 16. https://arxiv.org/pdf/2303.02169
 17. https://arxiv.org/pdf/hep-ph/0408165
 18. https://theory.tifr.res.in/~khatri/lecturenotes/cosmology/cosmology.pdf
+19. https://www.thphys.uni-heidelberg.de/~amendola/teaching/cosmology.pdf
+20. https://arxiv.org/pdf/1803.00070
+21. https://munchmeyer.physics.wisc.edu/wp-content/uploads/2024/06/Cosmology_Lecture_Notes.pdf
+22. https://cmb.wintherscoming.no/literature.php
    
    
