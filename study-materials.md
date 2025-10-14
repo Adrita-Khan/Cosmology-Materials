@@ -1,6 +1,6 @@
 ## Cosmology & Astrophysics Learning Resources
 
-### 📘 Lecture Notes and Course Pages
+### Lecture Notes and Course Pages
 1. [Caltech - SGD Teaching Resources](https://sites.astro.caltech.edu/~george/sgd_teach.html)  
 2. [Caltech AY127: Cosmology Course](https://sites.astro.caltech.edu/~george/ay127/)  
 3. [Caltech AY211: Advanced Cosmology](https://sites.astro.caltech.edu/~george/ay211/)  
@@ -15,7 +15,7 @@
 
 ---
 
-### 🪐 PDFs & Articles
+### PDFs & Articles
 12. [Peacock: Cosmology Notes (Caltech Reading List)](https://sites.astro.caltech.edu/~george/ay21/readings/peacock_cosmology_notes.pdf)  
 13. [Jaffe: Cosmology Overview (PDF)](https://www.sr.bham.ac.uk/~smcgee/ObsCosmo/Jaffe_cosmology.pdf)  
 14. [Baumann: Cosmology Lecture Notes (PDF)](https://cmb.wintherscoming.no/pdfs/baumann.pdf)  
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧠 Review Papers
+### Review Papers
 16. [Lesgourgues & Pastor (2014): Cosmological Neutrinos – arXiv:1401.1389](https://arxiv.org/abs/1401.1389)  
 17. [Bose & Khatri (2018): arXiv:1803.00070](https://arxiv.org/pdf/1803.00070)  
 18. [Modern Cosmology Notes (2023): arXiv:2303.02169](https://arxiv.org/pdf/2303.02169)  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧩 Other Key References
+### Other Key References
 20. [Durham University – Cosmology Course (R. Alonso)](https://ippp.dur.ac.uk/~ralonso/COS.html)  
 21. [Particle Data Group – Review Index (2016)](https://pdg.lbl.gov/2016/reviews/contents_sports.html)  
 22. [Cosmology Resource Materials (GitHub)](https://github.com/jrdmb/cosmology-resource-materials)
